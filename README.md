@@ -248,7 +248,7 @@ Google Drive:
 The Power BI dashboard is available in:
 
 ```text
-powerbi/
+powerbi/Executive_Sales_Intelligence_Dashboard.pbix
 ```
 
 Open the `.pbix` file using **Microsoft Power BI Desktop**.
