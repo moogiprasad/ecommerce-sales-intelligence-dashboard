@@ -1,6 +1,6 @@
 # 📊 Executive Sales Intelligence Dashboard
 
-![Dashboard Preview](images/Dashboard.jpeg)
+![Dashboard Preview](images/dashboard.jpeg)
 
 > An end-to-end Business Intelligence project built using **Python, Pandas, Power BI, and DAX** to transform raw e-commerce transaction data into actionable business insights.
 
@@ -176,25 +176,25 @@ The dashboard provides:
 
 ## Executive Dashboard
 
-![Dashboard](images/Dashboard.jpeg)
+![Dashboard](images/dashboard.jpeg)
 
 ---
 
 ## Monthly Revenue Trend
 
-![Monthly Revenue](images/Monthly%20revenue.jpeg)
+![Monthly Revenue](images/monthly_revenue.jpeg)
 
 ---
 
 ## Top Revenue Countries
 
-![Top Countries](images/top%20countries.jpeg)
+![Top Countries](images/top_20countries.jpeg)
 
 ---
 
 ## Top Customers
 
-![Top Customers](images/top%20customers.jpeg)
+![Top Customers](images/top_customers.jpeg)
 
 ---
 
