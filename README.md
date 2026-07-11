@@ -188,7 +188,7 @@ The dashboard provides:
 
 ## Top Revenue Countries
 
-![Top Countries](images/top_20countries.jpeg)
+![Top Countries](images/top_countries.jpeg)
 
 ---
 
