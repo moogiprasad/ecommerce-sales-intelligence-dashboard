@@ -156,10 +156,7 @@ ecommerce-sales-intelligence-dashboard/
 
 ## 📸 Dashboard Preview
 
-> Add the dashboard screenshot below after uploading it to the `images` folder.
-
-```markdown
-![Dashboard Preview](images/dashboard_screenshot.png)
+![Dashboard Preview](images/d.png)
 ```
 
 ---
